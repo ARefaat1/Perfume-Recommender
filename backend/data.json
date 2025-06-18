@@ -1,0 +1,87 @@
+
+[ 
+  {
+    "name": "Midnight Musk",
+    "description": "A sensual blend of musk and amber with sweet vanilla notes.",
+    "price": 39,
+    "tags": ["musk", "amber", "vanilla", "night"],
+    "image": "https://www.intenseoud.com/cdn/shop/files/3_2481a667-ce37-43cb-84df-0a52da6b2717.jpg?v=1725815038"
+  },
+  {
+    "name": "Citrus Rush",
+    "description": "Bright citrus fragrance with hints of orange, lemon, and mint.",
+    "price": 25,
+    "tags": ["citrus", "lemon", "fresh", "mint"],
+    "image": "https://potionandtwig.com/cdn/shop/products/Citrus-Rush-2.png?v=1619130348"
+  },
+  {
+    "name": "Floral Dream",
+    "description": "Light floral scent with rose, jasmine, and lily.",
+    "price": 30,
+    "tags": ["floral", "rose", "jasmine", "lily"],
+    "image": "https://us.floraiku.com/cdn/shop/files/first-dream-of-the-year-sample-1-5ml-eau-de-parfum-923.webp?v=1744434526&width=1000"
+  },
+  {
+    "name": "Woody Wonder",
+    "description": "Earthy fragrance combining cedarwood, sandalwood, and patchouli.",
+    "price": 34,
+    "tags": ["woody", "cedar", "sandalwood", "patchouli"],
+    "image": "https://kadiperfumes.com/cdn/shop/files/WoodyWonder.heic?v=1685680010&width=1946"
+  },
+  {
+    "name": "Ocean Breeze",
+    "description": "Fresh marine scent with sea salt, driftwood, and citrus undertones.",
+    "price": 27,
+    "tags": ["marine", "sea", "fresh", "driftwood","breeze"],
+    "image": "https://cdn.wholesale55.com/wp-content/uploads/2024/08/Ocean-Breeze-Eau-de-Parfum-100-ml3.4-Fl.-oz-Unisex-by-Milestone.jpeg"
+  },
+  {
+    "name": "Spice Storm",
+    "description": "Intense spicy aroma with cinnamon, clove, and black pepper.",
+    "price": 32,
+    "tags": ["spicy", "cinnamon", "clove", "pepper"],
+    "image": "https://cdn.webshopapp.com/shops/29471/files/188394902/al-haramain-storm-eau-de-parfum-100ml-perfume-spra.jpg"
+  },
+  {
+    "name": "Velvet Rose",
+    "description": "Deep romantic rose scent with hints of oud and honey.",
+    "price": 45,
+    "tags": ["rose", "oud", "honey", "romantic"],
+    "image": "https://m.media-amazon.com/images/I/61wyhpi4-rL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "name": "Vanilla Sky",
+    "description": "Warm vanilla fragrance mixed with caramel and tonka bean.",
+    "price": 33,
+    "tags": ["vanilla", "caramel", "warm", "tonka"],
+    "image": "https://cosmopolitanprod.vtexassets.com/arquivos/ids/390878/image_4.jpg?v=638575756235200000"
+  },
+  {
+    "name": "Green Escape",
+    "description": "Herbal green fragrance with basil, vetiver, and green tea.",
+    "price": 29,
+    "tags": ["green", "basil", "vetiver", "tea"],
+    "image": "https://perfumegallery.ae/cdn/shop/files/Spara-Escape-1.png?v=1724583243"
+  },
+  {
+    "name": "Smoky Nights",
+    "description": "Mysterious smoky blend of incense, leather, and tobacco.",
+    "price": 50,
+    "tags": ["smoky", "incense", "leather", "tobacco","man"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSgp8AjdL8k1jFC1AMM-cjUNJNqGh1JD-R6Q&s"
+  },
+  {
+    "name": "Sugar Bloom",
+    "description": "Sweet gourmand scent with cotton candy, pear, and peony.",
+    "price": 28,
+    "tags": ["sweet", "cotton candy", "pear", "peony", "sugary", "sugar"],
+    "image": "https://i.ebayimg.com/images/g/XTsAAOSwcOVkuB2s/s-l400.jpg"
+  },
+  {
+    "name": "Amber Soul",
+    "description": "A rich amber-based perfume with myrrh, vanilla, and spice.",
+    "price": 42,
+    "tags": ["amber", "myrrh", "vanilla", "spice"],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDa1Ohi9hjpaX10AgJrvlAHuUK2vAZnXPF-w&s"
+  }
+]
